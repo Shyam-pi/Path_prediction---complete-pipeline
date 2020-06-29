@@ -1,0 +1,22 @@
+{
+	"classes2extract": [
+		"LIGHTWEIGHT_AUTOMOTIVE_VEHICLE",
+		"BUS",
+		"2_AXLE_TRUCK",
+		"3_AXLE_TRUCK",
+		"4_AXLE_TRUCK",
+		"5_AXLE_TRUCK",
+		"6_AXLE_TRUCK",
+		"VAN",
+		"BICYCLE",
+		"MOTORCYCLE",
+		"PEDESTRIAN"
+	],
+	"trajectory_length": 45,
+	"slide_wdn": 45,
+	"trajectory_stride": 1,
+	"max_in_seq_length": 15,
+	"split_percentage": 0.95,
+	"polynomial_degree": 3,
+	"num_test_predictions": 1
+}
