@@ -1,5 +1,5 @@
 # Path-Prediction-of-Pedestrians-using-Bi-Directional-LSTM---A-complete-pipeline
-Codes for my Bachelor's thesis with BITS Pilani, Pilani campus in the topic - Path Prediction of Pedestrians using Deep Learning
+Codes for my Bachelor's thesis with BITS Pilani, Pilani campus in the topic - Path Prediction of Pedestrians using Deep Learning. This is my first time creating a complete coding project and using Github, so kindly excuse me for not living upto any standards :)
 
 Complete modeling, coding and simulation of the model has been done in Google Colab in order to avoid dependency issues and to promote better reproducibility for future works. Google drive will be used for managing everything, hence high speed internet connection is a must.
 
